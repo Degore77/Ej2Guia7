@@ -22,6 +22,7 @@ public class Ej2Guia7 {
         op1.crearCircunferencia();
         System.out.println("El area es: "+op1.area());
         System.out.println("El perimetro es: "+op1.perimetro());
+        System.out.println("Bien, hiciste el ejercicio");
     }
     
 }
